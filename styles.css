@@ -1,0 +1,13 @@
+#response-area, #recommendations-area {
+    min-height: 100px;
+}
+
+#status-area {
+    min-height: 20px;
+}
+
+@media (max-width: 640px) {
+    .max-w-lg {
+        margin: 1rem;
+    }
+}

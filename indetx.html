@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Система консультирования обучающихся</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #1F2328;
+            color: #E2E8F0;
+        }
+        .card {
+            background-color: #2A2F36;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+        }
+        .btn-primary {
+            background-color: #7C3AED;
+            transition: background-color 0.2s ease;
+        }
+        .btn-primary:hover {
+            background-color: #A78BFA;
+        }
+        .input-field {
+            background-color: #3A4048;
+            border: 1px solid #4B5563;
+            color: #E2E8F0;
+        }
+        .input-field:focus {
+            outline: none;
+            border-color: #7C3AED;
+            box-shadow: 0 0 0 2px rgba(124, 58, 237, 0.3);
+        }
+        .result-area {
+            background-color: #3A4048;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body class="min-h-screen flex items-center justify-center p-4">
+    <div class="card p-6 w-full max-w-lg">
+        <h1 class="text-2xl font-bold mb-6 text-center">Система консультирования</h1>
+        <div class="mb-4">
+            <input 
+                type="text" 
+                id="input-field" 
+                placeholder="Введите запрос" 
+                class="input-field w-full p-3 rounded-lg"
+            >
+        </div>
+        <div class="mb-4">
+            <button 
+                id="submit-btn" 
+                class="btn-primary text-white px-4 py-2 rounded-lg w-full font-medium"
+            >
+                Отправить
+            </button>
+        </div>
+        <div id="status-area" class="mb-4 text-sm text-gray-400"></div>
+        <div id="response-area" class="result-area p-4"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
