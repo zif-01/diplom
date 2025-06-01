@@ -1,0 +1,166 @@
+2025-05-14 15:10:45,815 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 15:10:45,815 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 15:10:45,817 - INFO -  * Restarting with stat
+2025-05-14 15:10:48,271 - WARNING -  * Debugger is active!
+2025-05-14 15:10:48,279 - INFO -  * Debugger PIN: 323-252-601
+2025-05-14 15:11:07,732 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 15:11:07,732 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 15:11:07,734 - INFO -  * Restarting with stat
+2025-05-14 15:11:10,233 - WARNING -  * Debugger is active!
+2025-05-14 15:11:10,241 - INFO -  * Debugger PIN: 323-252-601
+2025-05-14 15:11:12,718 - INFO - 127.0.0.1 - - [14/May/2025 15:11:12] "OPTIONS /api/query HTTP/1.1" 200 -
+2025-05-14 15:11:12,795 - INFO - 127.0.0.1 - - [14/May/2025 15:11:12] "POST /api/query HTTP/1.1" 200 -
+2025-05-14 15:11:15,899 - INFO - 127.0.0.1 - - [14/May/2025 15:11:15] "POST /api/query HTTP/1.1" 200 -
+2025-05-14 15:11:22,532 - INFO - 127.0.0.1 - - [14/May/2025 15:11:22] "OPTIONS /api/query HTTP/1.1" 200 -
+2025-05-14 15:11:22,597 - INFO - 127.0.0.1 - - [14/May/2025 15:11:22] "POST /api/query HTTP/1.1" 200 -
+2025-05-14 15:11:24,134 - INFO - 127.0.0.1 - - [14/May/2025 15:11:24] "GET /api/recommendations/1 HTTP/1.1" 200 -
+2025-05-14 15:50:35,177 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 15:50:35,177 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 15:50:35,180 - INFO -  * Restarting with stat
+2025-05-14 15:50:37,653 - WARNING -  * Debugger is active!
+2025-05-14 15:50:37,660 - INFO -  * Debugger PIN: 323-252-601
+2025-05-14 15:51:51,480 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 15:51:51,480 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 15:51:51,482 - INFO -  * Restarting with stat
+2025-05-14 15:51:53,920 - WARNING -  * Debugger is active!
+2025-05-14 15:51:53,927 - INFO -  * Debugger PIN: 323-252-601
+2025-05-14 15:51:57,427 - INFO - 127.0.0.1 - - [14/May/2025 15:51:57] "OPTIONS /api/query HTTP/1.1" 200 -
+2025-05-14 15:51:57,490 - INFO - 127.0.0.1 - - [14/May/2025 15:51:57] "POST /api/query HTTP/1.1" 200 -
+2025-05-14 15:52:08,344 - INFO - 127.0.0.1 - - [14/May/2025 15:52:08] "OPTIONS /api/query HTTP/1.1" 200 -
+2025-05-14 15:52:08,499 - INFO - 127.0.0.1 - - [14/May/2025 15:52:08] "POST /api/query HTTP/1.1" 200 -
+2025-05-14 15:52:14,392 - INFO - 127.0.0.1 - - [14/May/2025 15:52:14] "[35m[1mGET /api/literature?subject=экзамен+завтра,+что+делать HTTP/1.1[0m" 500 -
+2025-05-14 15:55:56,641 - INFO -  * Detected change in 'C:\\Users\\polia\\Desktop\\курсач\\diplom\\Server\\app.py', reloading
+2025-05-14 15:55:56,742 - INFO -  * Restarting with stat
+2025-05-14 15:55:59,517 - WARNING -  * Debugger is active!
+2025-05-14 15:55:59,525 - INFO -  * Debugger PIN: 323-252-601
+2025-05-14 15:56:23,834 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 15:56:23,834 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 15:56:23,836 - INFO -  * Restarting with stat
+2025-05-14 15:56:26,329 - WARNING -  * Debugger is active!
+2025-05-14 15:56:26,337 - INFO -  * Debugger PIN: 323-252-601
+2025-05-14 15:56:32,412 - INFO - 127.0.0.1 - - [14/May/2025 15:56:32] "OPTIONS /api/query HTTP/1.1" 200 -
+2025-05-14 15:56:32,474 - INFO - 127.0.0.1 - - [14/May/2025 15:56:32] "POST /api/query HTTP/1.1" 200 -
+2025-05-14 15:56:35,369 - INFO - 127.0.0.1 - - [14/May/2025 15:56:35] "GET /api/literature?subject=124 HTTP/1.1" 200 -
+2025-05-14 15:56:54,345 - INFO - 127.0.0.1 - - [14/May/2025 15:56:54] "GET /api/literature?subject=програмирование+ HTTP/1.1" 200 -
+2025-05-14 15:56:57,922 - INFO - 127.0.0.1 - - [14/May/2025 15:56:57] "GET /api/literature?subject=программирование+ HTTP/1.1" 200 -
+2025-05-14 15:57:02,816 - INFO - 127.0.0.1 - - [14/May/2025 15:57:02] "GET /api/literature?subject=базы+данных HTTP/1.1" 200 -
+2025-05-14 17:47:37,659 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 17:47:37,659 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 17:47:37,661 - INFO -  * Restarting with stat
+2025-05-14 17:47:40,187 - WARNING -  * Debugger is active!
+2025-05-14 17:47:40,195 - INFO -  * Debugger PIN: 323-252-601
+2025-05-14 17:47:49,932 - INFO - 127.0.0.1 - - [14/May/2025 17:47:49] "OPTIONS /api/query HTTP/1.1" 200 -
+2025-05-14 17:47:49,996 - INFO - 127.0.0.1 - - [14/May/2025 17:47:49] "POST /api/query HTTP/1.1" 200 -
+2025-05-14 17:47:56,413 - INFO - 127.0.0.1 - - [14/May/2025 17:47:56] "GET /api/resources?user_id=1&subject=база HTTP/1.1" 200 -
+2025-05-14 17:48:00,029 - INFO - 127.0.0.1 - - [14/May/2025 17:48:00] "GET /api/resources?user_id=1&subject=база+данных HTTP/1.1" 200 -
+2025-05-14 17:48:01,652 - INFO - 127.0.0.1 - - [14/May/2025 17:48:01] "GET /api/resources?user_id=1&subject=базаы+данных HTTP/1.1" 200 -
+2025-05-14 17:48:05,172 - INFO - 127.0.0.1 - - [14/May/2025 17:48:05] "OPTIONS /api/query HTTP/1.1" 200 -
+2025-05-14 17:48:05,227 - INFO - 127.0.0.1 - - [14/May/2025 17:48:05] "POST /api/query HTTP/1.1" 200 -
+2025-05-14 17:48:06,809 - INFO - 127.0.0.1 - - [14/May/2025 17:48:06] "POST /api/query HTTP/1.1" 200 -
+2025-05-14 17:48:12,595 - INFO - 127.0.0.1 - - [14/May/2025 17:48:12] "GET /api/resources?user_id=1&subject=информатика HTTP/1.1" 200 -
+2025-05-14 17:48:14,854 - INFO - 127.0.0.1 - - [14/May/2025 17:48:14] "OPTIONS /api/query HTTP/1.1" 200 -
+2025-05-14 17:48:14,909 - INFO - 127.0.0.1 - - [14/May/2025 17:48:14] "POST /api/query HTTP/1.1" 200 -
+2025-05-14 17:48:15,699 - INFO - 127.0.0.1 - - [14/May/2025 17:48:15] "POST /api/query HTTP/1.1" 200 -
+2025-05-14 18:07:48,336 - INFO -  * Detected change in 'C:\\Users\\polia\\Desktop\\курсач\\diplom\\Server\\app.py', reloading
+2025-05-14 18:07:48,465 - INFO -  * Restarting with stat
+2025-05-14 18:08:56,211 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 18:08:56,211 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 18:08:56,213 - INFO -  * Restarting with stat
+2025-05-14 18:08:58,688 - WARNING -  * Debugger is active!
+2025-05-14 18:08:58,696 - INFO -  * Debugger PIN: 323-252-601
+2025-05-14 18:09:02,947 - INFO - 127.0.0.1 - - [14/May/2025 18:09:02] "OPTIONS /api/process HTTP/1.1" 200 -
+2025-05-14 18:09:03,029 - INFO - 127.0.0.1 - - [14/May/2025 18:09:03] "POST /api/process HTTP/1.1" 200 -
+2025-05-14 18:09:19,619 - INFO - 127.0.0.1 - - [14/May/2025 18:09:19] "OPTIONS /api/process HTTP/1.1" 200 -
+2025-05-14 18:09:19,684 - INFO - 127.0.0.1 - - [14/May/2025 18:09:19] "POST /api/process HTTP/1.1" 200 -
+2025-05-14 18:13:00,172 - INFO - 127.0.0.1 - - [14/May/2025 18:13:00] "OPTIONS /api/process HTTP/1.1" 200 -
+2025-05-14 18:13:00,236 - INFO - 127.0.0.1 - - [14/May/2025 18:13:00] "POST /api/process HTTP/1.1" 200 -
+2025-05-14 18:13:48,991 - INFO - 127.0.0.1 - - [14/May/2025 18:13:48] "OPTIONS /api/process HTTP/1.1" 200 -
+2025-05-14 18:13:49,061 - INFO - 127.0.0.1 - - [14/May/2025 18:13:49] "POST /api/process HTTP/1.1" 200 -
+2025-05-14 18:13:57,388 - INFO - 127.0.0.1 - - [14/May/2025 18:13:57] "OPTIONS /api/process HTTP/1.1" 200 -
+2025-05-14 18:13:57,453 - INFO - 127.0.0.1 - - [14/May/2025 18:13:57] "POST /api/process HTTP/1.1" 200 -
+2025-05-14 18:41:32,158 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 18:41:32,158 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 18:41:32,161 - INFO -  * Restarting with stat
+2025-05-14 18:41:34,581 - WARNING -  * Debugger is active!
+2025-05-14 18:41:34,589 - INFO -  * Debugger PIN: 323-252-601
+2025-05-14 18:42:55,027 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 18:42:55,027 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 18:42:55,030 - INFO -  * Restarting with stat
+2025-05-14 18:42:57,438 - WARNING -  * Debugger is active!
+2025-05-14 18:42:57,445 - INFO -  * Debugger PIN: 323-252-601
+2025-05-14 18:43:03,325 - INFO - 127.0.0.1 - - [14/May/2025 18:43:03] "OPTIONS /api/process HTTP/1.1" 200 -
+2025-05-14 18:43:03,542 - INFO - 127.0.0.1 - - [14/May/2025 18:43:03] "POST /api/process HTTP/1.1" 200 -
+2025-05-14 18:43:24,188 - INFO - 127.0.0.1 - - [14/May/2025 18:43:24] "OPTIONS /api/process HTTP/1.1" 200 -
+2025-05-14 18:43:24,398 - INFO - 127.0.0.1 - - [14/May/2025 18:43:24] "POST /api/process HTTP/1.1" 200 -
+2025-05-14 18:43:27,730 - INFO - 127.0.0.1 - - [14/May/2025 18:43:27] "POST /api/process HTTP/1.1" 200 -
+2025-05-14 18:43:31,448 - INFO - 127.0.0.1 - - [14/May/2025 18:43:31] "OPTIONS /api/process HTTP/1.1" 200 -
+2025-05-14 18:43:31,557 - INFO - 127.0.0.1 - - [14/May/2025 18:43:31] "POST /api/process HTTP/1.1" 200 -
+2025-05-14 18:43:57,112 - INFO - 127.0.0.1 - - [14/May/2025 18:43:57] "OPTIONS /api/process HTTP/1.1" 200 -
+2025-05-14 18:43:57,222 - INFO - 127.0.0.1 - - [14/May/2025 18:43:57] "POST /api/process HTTP/1.1" 200 -
+2025-05-14 18:46:32,175 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 18:46:32,175 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 18:46:32,177 - INFO -  * Restarting with stat
+2025-05-14 18:46:34,614 - WARNING -  * Debugger is active!
+2025-05-14 18:46:34,621 - INFO -  * Debugger PIN: 323-252-601
+2025-05-14 18:46:37,382 - INFO - 127.0.0.1 - - [14/May/2025 18:46:37] "OPTIONS /api/process HTTP/1.1" 200 -
+2025-05-14 18:46:37,441 - INFO - 127.0.0.1 - - [14/May/2025 18:46:37] "POST /api/process HTTP/1.1" 200 -
+2025-05-14 18:46:57,625 - INFO - 127.0.0.1 - - [14/May/2025 18:46:57] "OPTIONS /api/process HTTP/1.1" 200 -
+2025-05-14 18:46:57,735 - INFO - 127.0.0.1 - - [14/May/2025 18:46:57] "POST /api/process HTTP/1.1" 200 -
+2025-05-14 19:21:55,944 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-14 19:21:55,944 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-14 19:21:55,945 - INFO -  * Restarting with stat
+2025-05-14 19:21:58,497 - WARNING -  * Debugger is active!
+2025-05-14 19:21:58,505 - INFO -  * Debugger PIN: 323-252-601
+2025-05-14 19:22:01,752 - INFO - 127.0.0.1 - - [14/May/2025 19:22:01] "OPTIONS /api/process HTTP/1.1" 200 -
+2025-05-14 19:22:01,813 - INFO - 127.0.0.1 - - [14/May/2025 19:22:01] "POST /api/process HTTP/1.1" 200 -
+2025-05-14 19:22:05,932 - INFO - 127.0.0.1 - - [14/May/2025 19:22:05] "POST /api/process HTTP/1.1" 200 -
+2025-05-14 19:22:12,446 - INFO - 127.0.0.1 - - [14/May/2025 19:22:12] "OPTIONS /api/process HTTP/1.1" 200 -
+2025-05-14 19:22:12,658 - INFO - 127.0.0.1 - - [14/May/2025 19:22:12] "POST /api/process HTTP/1.1" 200 -
+2025-05-14 19:22:22,429 - INFO - 127.0.0.1 - - [14/May/2025 19:22:22] "OPTIONS /api/process HTTP/1.1" 200 -
+2025-05-14 19:22:22,534 - INFO - 127.0.0.1 - - [14/May/2025 19:22:22] "POST /api/process HTTP/1.1" 200 -
+2025-05-14 19:22:41,696 - INFO - 127.0.0.1 - - [14/May/2025 19:22:41] "OPTIONS /api/process HTTP/1.1" 200 -
+2025-05-14 19:22:41,802 - INFO - 127.0.0.1 - - [14/May/2025 19:22:41] "POST /api/process HTTP/1.1" 200 -
+2025-06-01 13:07:22,249 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-01 13:07:22,249 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-01 13:07:22,251 - INFO -  * Restarting with stat
+2025-06-01 13:07:24,827 - WARNING -  * Debugger is active!
+2025-06-01 13:07:24,837 - INFO -  * Debugger PIN: 323-252-601
+2025-06-01 13:07:51,251 - INFO - 127.0.0.1 - - [01/Jun/2025 13:07:51] "OPTIONS /api/process HTTP/1.1" 200 -
+2025-06-01 13:07:51,408 - INFO - 127.0.0.1 - - [01/Jun/2025 13:07:51] "POST /api/process HTTP/1.1" 200 -
+2025-06-01 13:07:53,639 - INFO - 127.0.0.1 - - [01/Jun/2025 13:07:53] "POST /api/process HTTP/1.1" 200 -
+2025-06-01 13:07:59,503 - INFO - 127.0.0.1 - - [01/Jun/2025 13:07:59] "OPTIONS /api/process HTTP/1.1" 200 -
+2025-06-01 13:07:59,607 - INFO - 127.0.0.1 - - [01/Jun/2025 13:07:59] "POST /api/process HTTP/1.1" 200 -
+2025-06-01 13:10:03,959 - INFO - 127.0.0.1 - - [01/Jun/2025 13:10:03] "OPTIONS /api/process HTTP/1.1" 200 -
+2025-06-01 13:10:04,065 - INFO - 127.0.0.1 - - [01/Jun/2025 13:10:04] "POST /api/process HTTP/1.1" 200 -
+2025-06-01 13:10:16,997 - INFO - 127.0.0.1 - - [01/Jun/2025 13:10:16] "OPTIONS /api/process HTTP/1.1" 200 -
+2025-06-01 13:10:17,099 - INFO - 127.0.0.1 - - [01/Jun/2025 13:10:17] "POST /api/process HTTP/1.1" 200 -
+2025-06-01 13:10:30,504 - INFO - 127.0.0.1 - - [01/Jun/2025 13:10:30] "OPTIONS /api/process HTTP/1.1" 200 -
+2025-06-01 13:10:30,610 - INFO - 127.0.0.1 - - [01/Jun/2025 13:10:30] "POST /api/process HTTP/1.1" 200 -
+2025-06-01 13:12:44,287 - INFO - 127.0.0.1 - - [01/Jun/2025 13:12:44] "OPTIONS /api/process HTTP/1.1" 200 -
+2025-06-01 13:12:44,393 - INFO - 127.0.0.1 - - [01/Jun/2025 13:12:44] "POST /api/process HTTP/1.1" 200 -
+2025-06-01 13:12:55,003 - INFO - 127.0.0.1 - - [01/Jun/2025 13:12:55] "OPTIONS /api/process HTTP/1.1" 200 -
+2025-06-01 13:12:55,210 - INFO - 127.0.0.1 - - [01/Jun/2025 13:12:55] "POST /api/process HTTP/1.1" 200 -
+2025-06-01 13:13:01,599 - INFO - 127.0.0.1 - - [01/Jun/2025 13:13:01] "OPTIONS /api/process HTTP/1.1" 200 -
+2025-06-01 13:13:01,802 - INFO - 127.0.0.1 - - [01/Jun/2025 13:13:01] "POST /api/process HTTP/1.1" 200 -
+2025-06-01 13:13:09,604 - INFO - 127.0.0.1 - - [01/Jun/2025 13:13:09] "OPTIONS /api/process HTTP/1.1" 200 -
+2025-06-01 13:13:09,713 - INFO - 127.0.0.1 - - [01/Jun/2025 13:13:09] "POST /api/process HTTP/1.1" 200 -
+2025-06-01 13:13:20,900 - INFO - 127.0.0.1 - - [01/Jun/2025 13:13:20] "OPTIONS /api/process HTTP/1.1" 200 -
+2025-06-01 13:13:21,009 - INFO - 127.0.0.1 - - [01/Jun/2025 13:13:21] "POST /api/process HTTP/1.1" 200 -
+2025-06-01 13:13:43,017 - INFO - 127.0.0.1 - - [01/Jun/2025 13:13:43] "OPTIONS /api/process HTTP/1.1" 200 -
+2025-06-01 13:13:43,120 - INFO - 127.0.0.1 - - [01/Jun/2025 13:13:43] "POST /api/process HTTP/1.1" 200 -
+2025-06-01 13:14:00,347 - INFO - 127.0.0.1 - - [01/Jun/2025 13:14:00] "OPTIONS /api/process HTTP/1.1" 200 -
+2025-06-01 13:14:00,453 - INFO - 127.0.0.1 - - [01/Jun/2025 13:14:00] "POST /api/process HTTP/1.1" 200 -
+2025-06-01 13:23:52,785 - INFO - 127.0.0.1 - - [01/Jun/2025 13:23:52] "OPTIONS /api/process HTTP/1.1" 200 -
+2025-06-01 13:23:52,905 - INFO - 127.0.0.1 - - [01/Jun/2025 13:23:52] "POST /api/process HTTP/1.1" 200 -
